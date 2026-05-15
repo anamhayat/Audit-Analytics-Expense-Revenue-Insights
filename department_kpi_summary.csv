@@ -1,0 +1,11 @@
+department,transaction_type,transaction_count,total_amount,flagged_transactions,high_value_txns,duplicate_txns,anomaly_txns
+Finance,Expense,177,10125187.14,22,5,8,1
+Finance,Revenue,55,5298247.18,15,5,4,3
+HR,Expense,181,11405055.82,18,6,8,1
+HR,Revenue,86,10465248.32,22,13,0,5
+IT,Expense,164,9620771.43,16,4,2,1
+IT,Revenue,79,8159839.45,25,14,6,0
+Operations,Expense,192,10436170.9,31,4,12,0
+Operations,Revenue,73,7057636.14,17,12,0,0
+Sales,Expense,146,8557170.3,18,4,8,1
+Sales,Revenue,72,7113633.93,15,10,0,0
